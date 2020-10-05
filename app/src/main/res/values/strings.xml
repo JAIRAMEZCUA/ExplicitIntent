@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ExplicitIntent</string>
+    <string-array name="lista_spinner">
+        <item>limon</item>
+        <item>naranja</item>
+        <item>fresa</item>
+        <item>mango</item>
+        <item>guanabana</item>
+        <item>chirimolla</item>
+        <item>carambola</item>
+        <item>manzana</item>
+    </string-array>
 </resources>
